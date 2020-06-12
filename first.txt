@@ -1,2 +1,1 @@
-this is the first version of my text document
-this is the second version of my text document
+this is the second version of the file
